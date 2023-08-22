@@ -203,7 +203,7 @@ rules:
   - DOMAIN-KEYWORD,xeton.dev,🎬 EMBY
   - DOMAIN-SUFFIX,front.gugumedia.link,🎬 EMBY
   - DOMAIN-SUFFIX,emby.9191001.xyz,🎬 EMBY
-  - DOMAIN-SUFFIX,pilili.emby77.org:,🎬 EMBY直连
+  - DOMAIN-SUFFIX,pilili.emby77.org:,🎬 EMBY
   - DOMAIN-SUFFIX,pilili-cf.emby77.org,🎬 EMBY
   - DOMAIN-SUFFIX,film.ohhhh.org,🎬 EMBY
   - DOMAIN-SUFFIX,film.goodisp.org,🎬 EMBY
