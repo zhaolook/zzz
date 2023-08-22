@@ -159,6 +159,7 @@ rules:
   - DOMAIN-SUFFIX,free.emby.eu.org,🎬 EMBY
   - DOMAIN-SUFFIX,9wfree.emby.eu.org,🎬 EMBY
   - DOMAIN-SUFFIX,emby.dicarerhome.com,🎬 EMBY直连
+  - DOMAIN-SUFFIX,cf.shuipo.lol,🎬 EMBY直连
   - DOMAIN-SUFFIX,de.mjjemby.org,🎬 EMBY直连
   - DOMAIN-SUFFIX,public.emby.ws,🎬 EMBY
   - DOMAIN-SUFFIX,sg01.mjjemby.org,🎬 EMBY
