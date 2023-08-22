@@ -280,6 +280,7 @@ rules:
   - DOMAIN-SUFFIX,ntt1.jmsooo.com,🎬 EMBY
   - DOMAIN-SUFFIX,hinet.jmsooo.com,🎬 EMBY
   - DOMAIN-SUFFIX,cf1.jmsooo.com,🎬 EMBY
+  - DOMAIN-SUFFIX,cf.jmsooo.com,🎬 EMBY直连
   - DOMAIN-SUFFIX,pornemby.club,🎬 EMBY
   - DOMAIN-SUFFIX,hk.pornemby.club,🎬 EMBY
   - DOMAIN-SUFFIX,us.pornemby.club,🎬 EMBY
