@@ -136,6 +136,7 @@ proxies: ~
 proxy-groups: ~
 rules:
   - DOMAIN-SUFFIX,q1cloud.me,🚀 节点选择
+  - DOMAIN-SUFFIX,abc.net.au,🚀 节点选择
   - DOMAIN-SUFFIX,entrance.facmata.net,🚀 节点选择
   - DOMAIN-SUFFIX,facmata.net,🚀 节点选择
   - DOMAIN-SUFFIX,sub.tsutsu.one,🚀 节点选择
