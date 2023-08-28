@@ -202,7 +202,7 @@ rules:
   - DOMAIN-KEYWORD,emby.wtf,🎬 EMBY
   - DOMAIN-KEYWORD,jmaooo.com,🎬 EMBY
   - DOMAIN-KEYWORD,xeton.dev,🎬 EMBY
-  - DOMAIN-SUFFIX,front.gugumedia.link,🎬 EMBY
+  - DOMAIN-SUFFIX,front.gugumedia.link,🎬 EMBY直连
   - DOMAIN-SUFFIX,emby.9191001.xyz,🎬 EMBY
   - DOMAIN-SUFFIX,pilili.emby77.org:,🎬 EMBY
   - DOMAIN-SUFFIX,pilili-cf.emby77.org,🎬 EMBY
