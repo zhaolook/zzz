@@ -228,8 +228,9 @@ rules:
   - DOMAIN-SUFFIX,sg.imetyou.top,🎬 EMBY
   - DOMAIN-SUFFIX,chun.imetyou.top,🎬 EMBY
   - DOMAIN-SUFFIX,v.20120714.xyz,🎬 EMBY
-  - DOMAIN-SUFFIX,usa.bili.r,🎬 EMBY
-  - DOMAIN-SUFFIX,bili.bili.r,🎬 EMBY
+  - DOMAIN-SUFFIX,4837.bili.rip,🎬 EMBY直连
+  - DOMAIN-SUFFIX,bili.bili.rip,🎬 EMBY直连
+  - DOMAIN-SUFFIX,kr.bili.rip,🎬 EMBY
   - DOMAIN-SUFFIX,fuck.nvidia.r,🎬 EMBY
   - DOMAIN-SUFFIX,cf.carlos.trade,🎬 EMBY
   - DOMAIN-SUFFIX,emby.carlos.trade,🎬 EMBY
