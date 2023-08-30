@@ -367,7 +367,7 @@ rules:
   - DOMAIN-SUFFIX,cristiamo.xyz,🎬 EMBY
   - IP-CIDR,85.239.235.232/24,🎬 EMBY直连,no-resolve
   - IP-CIDR,161.97.148.156/24,🎬 EMBY,no-resolve
-  - IP-CIDR,38.147.170.103/24,🎬 EMBY,no-resolve
+  - IP-CIDR,38.147.170.103/24,🎬 EMBY直连,no-resolve
   - DOMAIN-SUFFIX,emby.cristiamo.top,🎬 EMBY
   - DOMAIN,www.jinglongyu.com,🕸 官方网站
   - DOMAIN,bbs.hostevaluate.com,🚀 节点选择
