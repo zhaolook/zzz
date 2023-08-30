@@ -204,9 +204,9 @@ rules:
   - DOMAIN-KEYWORD,jmaooo.com,🎬 EMBY
   - DOMAIN-KEYWORD,xeton.dev,🎬 EMBY
   - DOMAIN-SUFFIX,front.gugumedia.link,🎬 EMBY直连
-  - DOMAIN-SUFFIX,emby.9191001.xyz,🎬 EMBY
-  - DOMAIN-SUFFIX,pilili.emby77.org:,🎬 EMBY
-  - DOMAIN-SUFFIX,pilili-cf.emby77.org,🎬 EMBY
+  - DOMAIN-SUFFIX,emby.9191001.xyz,🎬 EMBY直连
+  - DOMAIN-SUFFIX,pilili.emby77.org:,🎬 EMBY直连
+  - DOMAIN-SUFFIX,pilili-cf.emby77.org,🎬 EMBY直连
   - DOMAIN-SUFFIX,film.ohhhh.org,🎬 EMBY
   - DOMAIN-SUFFIX,film.goodisp.org,🎬 EMBY
   - DOMAIN-SUFFIX,cf.infinityfly.top,🎬 EMBY
