@@ -219,7 +219,9 @@ rules:
   - DOMAIN-SUFFIX,little.kikidream.top,🎬 EMBY
   - DOMAIN-SUFFIX,1.loseremby.org,🎬 EMBY
   - DOMAIN-SUFFIX,emby3.mcjoker.xyz,🎬 EMBY
-  - DOMAIN-SUFFIX,freetz.top,🎬 EMBY
+  - DOMAIN-SUFFIX,emby.freetz.top,🎬 EMBY直连
+  - DOMAIN-SUFFIX,cf.freetz.top,🎬 EMBY直连
+  - DOMAIN-SUFFIX,kr.freetz.top,🎬 EMBY
   - DOMAIN-SUFFIX,emby2.agon.cf,🎬 EMBY
   - DOMAIN-SUFFIX,emby.ednovas.org,🎬 EMBY
   - DOMAIN-SUFFIX,kr.imetyou.top,🎬 EMBY
