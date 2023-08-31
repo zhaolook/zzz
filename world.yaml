@@ -229,7 +229,8 @@ rules:
   - DOMAIN-SUFFIX,kr.imetyou.top,🎬 EMBY
   - DOMAIN-SUFFIX,sg.imetyou.top,🎬 EMBY
   - DOMAIN-SUFFIX,chun.imetyou.top,🎬 EMBY
-  - DOMAIN-SUFFIX,v.20120714.xyz,🎬 EMBY
+  - DOMAIN-SUFFIX,v.20120714.xyz,🎬 EMBY直连
+  - DOMAIN-SUFFIX,marmot.20120714.xyz,🎬 EMBY直连
   - DOMAIN-SUFFIX,4837.bili.rip,🎬 EMBY直连
   - DOMAIN-SUFFIX,bili.bili.rip,🎬 EMBY直连
   - DOMAIN-SUFFIX,kr.bili.rip,🎬 EMBY
