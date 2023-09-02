@@ -236,8 +236,8 @@ rules:
   - DOMAIN-SUFFIX,bili.bili.rip,🎬 EMBY直连
   - DOMAIN-SUFFIX,kr.bili.rip,🎬 EMBY
   - DOMAIN-SUFFIX,fuck.nvidia.r,🎬 EMBY
-  - DOMAIN-SUFFIX,cf.carlos.trade,🎬 EMBY
-  - DOMAIN-SUFFIX,emby.carlos.trade,🎬 EMBY
+  - DOMAIN-SUFFIX,cf.carlos.trade,🎬 EMBY直连
+  - DOMAIN-SUFFIX,emby.carlos.trade,🎬 EMBY直连
   - DOMAIN-SUFFIX,kr.embymv.tk,🎬 EMBY
   - DOMAIN-SUFFIX,jp.embymv.tk,🎬 EMBY
   - DOMAIN-SUFFIX,zby.zi0.icu,🎬 EMBY
