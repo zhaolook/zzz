@@ -229,7 +229,7 @@ rules:
   - DOMAIN-SUFFIX,cf.freetz.top,🎬 EMBY直连
   - DOMAIN-SUFFIX,kr.freetz.top,🎬 EMBY
   - DOMAIN-SUFFIX,emby2.agon.cf,🎬 EMBY
-  - DOMAIN-SUFFIX,emby.ednovas.org,🎬 EMBY
+  - DOMAIN-SUFFIX,emby.ednovas.org,🎬 EMBY直连
   - DOMAIN-SUFFIX,kr.imetyou.top,🎬 EMBY
   - DOMAIN-SUFFIX,sg.imetyou.top,🎬 EMBY
   - DOMAIN-SUFFIX,chun.imetyou.top,🎬 EMBY
