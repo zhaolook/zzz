@@ -136,6 +136,7 @@ proxies: ~
 proxy-groups: ~
 rules:
   - DOMAIN-SUFFIX,q1cloud.me,🚀 节点选择
+  - DOMAIN-SUFFIX,clashios.com,🚀 节点选择
   - DOMAIN-SUFFIX,karleynetwork.shop,🚀 节点选择
   - DOMAIN-SUFFIX,extc.shop,🚀 节点选择
   - DOMAIN-SUFFIX,51cg1.com,🚀 节点选择
