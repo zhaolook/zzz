@@ -136,6 +136,7 @@ proxies: ~
 proxy-groups: ~
 rules:
   - DOMAIN-SUFFIX,q1cloud.me,🚀 节点选择
+  - DOMAIN-SUFFIX,laomaoyun.me,🚀 节点选择
   - DOMAIN-SUFFIX,vfuiov.sbs,🚀 节点选择
   - DOMAIN-SUFFIX,xnbnq37rc0nw50b.com,🚀 节点选择
   - DOMAIN-SUFFIX,clashios.com,🚀 节点选择
