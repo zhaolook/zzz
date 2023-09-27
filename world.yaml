@@ -136,6 +136,7 @@ proxies: ~
 proxy-groups: ~
 rules:
   - DOMAIN-SUFFIX,q1cloud.me,🚀 节点选择
+  - DOMAIN-SUFFIX,ankelnet.com,🚀 节点选择
   - DOMAIN-SUFFIX,114514.gay,🚀 节点选择
   - DOMAIN-SUFFIX,nexconvert.com,🚀 节点选择
   - DOMAIN-SUFFIX,amyconvert.com,🚀 节点选择
