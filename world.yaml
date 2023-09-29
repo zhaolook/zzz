@@ -174,8 +174,8 @@ rules:
   - DOMAIN-SUFFIX,cdn-gia.otv.icu,🎬 EMBY
   - DOMAIN-SUFFIX,film.reddust.link,🎬 EMBY
   - DOMAIN-SUFFIX,cdn.otv.icu,🎬 EMBY
-  - DOMAIN-SUFFIX,free.emby.eu.org,🎬 EMBY
-  - DOMAIN-SUFFIX,9wfree.emby.eu.org,🎬 EMBY
+  - DOMAIN-SUFFIX,free.emby.eu.org,🎬 EMBY直连
+  - DOMAIN-SUFFIX,9wfree.emby.eu.org,🎬 EMBY直连
   - DOMAIN-SUFFIX,misty.ltd,🎬 EMBY直连
   - DOMAIN-SUFFIX,285286.xyz,🎬 EMBY直连
   - DOMAIN-SUFFIX,emby.dicarerhome.com,🎬 EMBY直连
