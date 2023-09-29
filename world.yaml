@@ -169,7 +169,7 @@ rules:
   - DOMAIN-SUFFIX,legeth.com,🚀 节点选择
   - DOMAIN-SUFFIX,cf.otv.icu,🎬 EMBY直连
   - DOMAIN-SUFFIX,cf-us.otv.icu,🎬 EMBY直连
-  - DOMAIN-SUFFIX,otv.icu,🎬 EMBY
+  - DOMAIN-SUFFIX,otv.icu,🎬 EMBY直连
   - DOMAIN-SUFFIX,magpie.cyou,🎬 EMBY
   - DOMAIN-SUFFIX,cdn-gia.otv.icu,🎬 EMBY
   - DOMAIN-SUFFIX,film.reddust.link,🎬 EMBY
