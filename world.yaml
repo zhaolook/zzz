@@ -170,6 +170,7 @@ rules:
   - DOMAIN-SUFFIX,cf.otv.icu,🎬 EMBY直连
   - DOMAIN-SUFFIX,magpie.cyou,🎬 EMBY
   - DOMAIN-SUFFIX,cdn-gia.otv.icu,🎬 EMBY
+  - DOMAIN-SUFFIX,film.reddust.link,🎬 EMBY
   - DOMAIN-SUFFIX,cdn.otv.icu,🎬 EMBY
   - DOMAIN-SUFFIX,free.emby.eu.org,🎬 EMBY
   - DOMAIN-SUFFIX,9wfree.emby.eu.org,🎬 EMBY
