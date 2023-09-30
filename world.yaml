@@ -136,6 +136,7 @@ proxies: ~
 proxy-groups: ~
 rules:
   - DOMAIN-SUFFIX,q1cloud.me,🚀 节点选择
+  - DOMAIN-SUFFIX,zaixianjiema.com,🚀 节点选择
   - DOMAIN-SUFFIX,ankelnet.com,🚀 节点选择
   - DOMAIN-SUFFIX,114514.gay,🚀 节点选择
   - DOMAIN-SUFFIX,nexconvert.com,🚀 节点选择
@@ -242,7 +243,7 @@ rules:
   - DOMAIN-SUFFIX,emby2.agon.cf,🎬 EMBY
   - DOMAIN-SUFFIX,emby.ednovas.org,🎬 EMBY直连
   - DOMAIN-SUFFIX,kr.imetyou.top,🎬 EMBY
-  - DOMAIN-SUFFIX,sg.imetyou.top,🎬 EMBY
+  - DOMAIN-SUFFIX,sg.imetyou.top,🎬 EMBY直连
   - DOMAIN-SUFFIX,chun.imetyou.top,🎬 EMBY
   - DOMAIN-SUFFIX,v.20120714.xyz,🎬 EMBY直连
   - DOMAIN-SUFFIX,marmot.20120714.xyz,🎬 EMBY直连
