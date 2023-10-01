@@ -136,6 +136,7 @@ proxies: ~
 proxy-groups: ~
 rules:
   - DOMAIN-SUFFIX,q1cloud.me,🚀 节点选择
+  - DOMAIN-SUFFIX,2c.lol,🚀 节点选择
   - DOMAIN-SUFFIX,ctc.run,🚀 节点选择
   - DOMAIN-SUFFIX,zaixianjiema.com,🚀 节点选择
   - DOMAIN-SUFFIX,ankelnet.com,🚀 节点选择
