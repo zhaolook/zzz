@@ -173,6 +173,8 @@ rules:
   - DOMAIN-SUFFIX,qinav.com,🚀 节点选择
   - DOMAIN-SUFFIX,legeth.com,🚀 节点选择
   - DOMAIN-SUFFIX,cf.otv.icu,🎬 EMBY直连
+  - DOMAIN-SUFFIX,infinityfly.top,🎬 EMBY
+  - DOMAIN-SUFFIX,nc1.infinityfly.top,🎬 EMBY直连
   - DOMAIN-SUFFIX,cf-us.otv.icu,🎬 EMBY直连
   - DOMAIN-SUFFIX,otv.icu,🎬 EMBY直连
   - DOMAIN-SUFFIX,magpie.cyou,🎬 EMBY
