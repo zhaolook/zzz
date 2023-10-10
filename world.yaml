@@ -397,6 +397,7 @@ rules:
   - DOMAIN-SUFFIX,emby.xeton.dev,🎬 EMBY
   - DOMAIN-SUFFIX,emby.cjpc.cc,🎬 EMBY
   - DOMAIN-SUFFIX,cristiamo.xyz,🎬 EMBY
+  - IP-CIDR,129.150.48.48/24,🎬 EMBY直连,no-resolve
   - IP-CIDR,23.225.14.121/24,🎬 EMBY直连,no-resolve
   - IP-CIDR,85.239.235.232/24,🎬 EMBY直连,no-resolve
   - IP-CIDR,161.97.148.156/24,🎬 EMBY,no-resolve
