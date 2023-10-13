@@ -225,6 +225,7 @@ rules:
   - DOMAIN-SUFFIX,a.joker1.top,🎬 EMBY直连
   - DOMAIN-SUFFIX,go.catlink.eu.org,🎬 EMBY直连
   - DOMAIN-SUFFIX,embymv.tk,🎬 EMBY直连
+  - DOMAIN-SUFFIX,push-kr.misakaf.org,🎬 EMBY直连
   - DOMAIN-SUFFIX,cdn01-kent-seoul.lincent.org,🎬 EMBY直连
   - DOMAIN-SUFFIX,cdn09-dcitay-chuncheon.lincent.org,🎬 EMBY直连
   - DOMAIN-KEYWORD,odysseyplus,🎬 EMBY
