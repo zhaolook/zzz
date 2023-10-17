@@ -213,6 +213,7 @@ rules:
   - DOMAIN-SUFFIX,emby.lucasmedia.top,🎬 EMBY直连
   - DOMAIN-SUFFIX,flare.starcat.eu.org,🎬 EMBY直连
   - DOMAIN-SUFFIX,tank66.top,🎬 EMBY直连
+  - DOMAIN-SUFFIX,tv.the98.ltd,🎬 EMBY直连
   - DOMAIN-SUFFIX,tank88.top,🎬 EMBY直连
   - DOMAIN-SUFFIX,xmsl.org,🎬 EMBY直连
   - DOMAIN-SUFFIX,jz.mcjoker.xyz,🎬 EMBY直连
