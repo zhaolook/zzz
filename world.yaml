@@ -136,6 +136,7 @@ proxies: ~
 proxy-groups: ~
 rules:
   - DOMAIN-SUFFIX,q1cloud.me,🚀 节点选择
+  - DOMAIN-SUFFIX,kuromis.com,🚀 节点选择
   - DOMAIN-SUFFIX,godaddy.com,🚀 节点选择
   - DOMAIN-SUFFIX,xn--9kq058c2b756d.online,🚀 节点选择
   - DOMAIN-SUFFIX,lmspeedapp.com,🚀 节点选择
