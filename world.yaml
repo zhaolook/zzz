@@ -180,6 +180,9 @@ rules:
   - DOMAIN-SUFFIX,legeth.com,🚀 节点选择
   - DOMAIN-SUFFIX,cf.otv.icu,🎬 EMBY直连
   - DOMAIN-SUFFIX,infinityfly.top,🎬 EMBY
+  - DOMAIN-SUFFIX,emby.pilipiliultra.top,🎬 EMBY直连
+  - DOMAIN-SUFFIX,pilipili.mikuu.link,🎬 EMBY直连
+  - DOMAIN-SUFFIX,emby.pilipiliultra.com,🎬 EMBY直连
   - DOMAIN-SUFFIX,nc1.infinityfly.top,🎬 EMBY直连
   - DOMAIN-SUFFIX,cf-us.otv.icu,🎬 EMBY直连
   - DOMAIN-SUFFIX,otv.icu,🎬 EMBY直连
@@ -402,6 +405,7 @@ rules:
   - DOMAIN-SUFFIX,emby.xeton.dev,🎬 EMBY
   - DOMAIN-SUFFIX,emby.cjpc.cc,🎬 EMBY
   - DOMAIN-SUFFIX,cristiamo.xyz,🎬 EMBY
+  - IP-CIDR,146.56.36.1/24,🎬 EMBY直连,no-resolve
   - IP-CIDR,129.150.48.48/24,🎬 EMBY直连,no-resolve
   - IP-CIDR,23.225.14.121/24,🎬 EMBY直连,no-resolve
   - IP-CIDR,85.239.235.232/24,🎬 EMBY直连,no-resolve
