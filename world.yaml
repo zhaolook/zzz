@@ -444,6 +444,7 @@ rules:
   - DOMAIN,router.asus.com,🎯 全球直连
   - DOMAIN-SUFFIX,hiwifi.com,🎯 全球直连
   - DOMAIN-SUFFIX,leike.cc,🎯 全球直连
+  - DOMAIN-SUFFIX,ieee.org,🎯 全球直连
   - DOMAIN-SUFFIX,miwifi.com,🎯 全球直连
   - DOMAIN-SUFFIX,my.router,🎯 全球直连
   - DOMAIN-SUFFIX,p.to,🎯 全球直连
