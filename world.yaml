@@ -185,6 +185,7 @@ rules:
   - DOMAIN-SUFFIX,emby.pilipiliultra.com,🎬 EMBY直连
   - DOMAIN-SUFFIX,nc1.infinityfly.top,🎬 EMBY直连
   - DOMAIN-SUFFIX,cf-us.otv.icu,🎬 EMBY直连
+  - DOMAIN-SUFFIX,emby.agon.cf,🎬 EMBY直连
   - DOMAIN-SUFFIX,otv.icu,🎬 EMBY直连
   - DOMAIN-SUFFIX,magpie.cyou,🎬 EMBY
   - DOMAIN-SUFFIX,cdn-gia.otv.icu,🎬 EMBY
@@ -215,7 +216,8 @@ rules:
   - DOMAIN-SUFFIX,little.kikiemby.top,🎬 EMBY直连
   - DOMAIN-SUFFIX,cfemby.kiyoginn.ml,🎬 EMBY直连
   - DOMAIN-SUFFIX,emby.lucasmedia.top,🎬 EMBY直连
-  - DOMAIN-SUFFIX,flare.starcat.eu.org,🎬 EMBY直连
+  - DOMAIN-SUFFIX,flare.starcat.eu.org,🎬 EMBY
+  - DOMAIN-SUFFIX,starcat.eu.org,🎬 EMBY直连
   - DOMAIN-SUFFIX,tank66.top,🎬 EMBY直连
   - DOMAIN-SUFFIX,tv.the98.ltd,🎬 EMBY直连
   - DOMAIN-SUFFIX,tank88.top,🎬 EMBY直连
