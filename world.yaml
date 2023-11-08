@@ -136,6 +136,7 @@ proxies: ~
 proxy-groups: ~
 rules:
   - DOMAIN-SUFFIX,q1cloud.me,🚀 节点选择
+  - DOMAIN-SUFFIX,nexitally.com,🚀 节点选择
   - DOMAIN-SUFFIX,ghproxy.com,🚀 节点选择
   - DOMAIN-SUFFIX,air.222921.xyz,🚀 节点选择
   - DOMAIN-SUFFIX,kuromis.com,🚀 节点选择
