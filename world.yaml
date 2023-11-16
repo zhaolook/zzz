@@ -429,6 +429,7 @@ rules:
   - DOMAIN-KEYWORD,kuaichedao,🚀 节点选择
   - DOMAIN-KEYWORD,mega,Ⓜ️ 微软服务
   - DOMAIN-KEYWORD,openai,🤖 ChatGPT
+  - DOMAIN-SUFFIX,oaistatic.com,🚀 节点选择
   - DOMAIN-KEYWORD,chatgpt,🤖 ChatGPT
   - DOMAIN-SUFFIX,chatpdf.com,🤖 ChatGPT
   - DOMAIN,play.charontv.com,🎬 EMBY
