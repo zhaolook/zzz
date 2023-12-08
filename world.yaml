@@ -190,6 +190,7 @@ rules:
   - DOMAIN-SUFFIX,cf.otv.icu,🎬 EMBY直连
   - DOMAIN-SUFFIX,infinityfly.top,🎬 EMBY
   - DOMAIN-SUFFIX,emby.lendcloud.link,🎬 EMBY
+  - DOMAIN-SUFFIX,emby.lcloud.wiki,🎬 EMBY
   - DOMAIN-SUFFIX,emby.pilipiliultra.top,🎬 EMBY直连
   - DOMAIN-SUFFIX,misakaf.pilipiliultra.top,🎬 EMBY直连
   - DOMAIN-SUFFIX,h.888804.xyz,🎬 EMBY直连
