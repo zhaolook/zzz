@@ -136,6 +136,7 @@ proxies: ~
 proxy-groups: ~
 rules:
   - DOMAIN-SUFFIX,q1cloud.me,🚀 节点选择
+  - DOMAIN-SUFFIX,anyland.club,🚀 节点选择
   - DOMAIN-SUFFIX,galaxy.starcloud.monster,🚀 节点选择
   - DOMAIN-SUFFIX,mao3dy19.com,🚀 节点选择
   - DOMAIN-SUFFIX,av999.tv,🚀 节点选择
