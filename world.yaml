@@ -136,6 +136,7 @@ proxies: ~
 proxy-groups: ~
 rules:
   - DOMAIN-SUFFIX,q1cloud.me,🚀 节点选择
+  - DOMAIN-SUFFIX,usuc.cc,🚀 节点选择
   - DOMAIN-SUFFIX,tpap.cloud,🚀 节点选择
   - DOMAIN-SUFFIX,bot.impian.eu,🚀 节点选择
   - DOMAIN-SUFFIX,888.881075.xyz,🚀 节点选择
