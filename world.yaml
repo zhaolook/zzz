@@ -136,6 +136,7 @@ proxies: ~
 proxy-groups: ~
 rules:
   - DOMAIN-SUFFIX,q1cloud.me,🚀 节点选择
+  - DOMAIN-SUFFIX,wu.uy,🚀 节点选择
   - DOMAIN-SUFFIX,pmxu.xyz,🚀 节点选择
   - DOMAIN-SUFFIX,cos.cat,🚀 节点选择
   - DOMAIN-SUFFIX,zoomm.cloud,🚀 节点选择
