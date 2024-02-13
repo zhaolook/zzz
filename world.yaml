@@ -441,6 +441,7 @@ rules:
   - IP-CIDR,132.226.21.33/24,🎬 EMBY,no-resolve
   - IP-CIDR,38.47.221.60/24,🎬 EMBY,no-resolve
   - IP-CIDR,23.158.72.21/24,🎬 EMBY,no-resolve
+  - IP-CIDR,91.108.56.156/24,🎬 EMBY直连,no-resolve
   - IP-CIDR,94.16.122.183/24,🎬 EMBY直连,no-resolve
   - IP-CIDR,168.138.161.143/24,🎬 EMBY直连,no-resolve
   - IP-CIDR,140.238.6.215/24,🎬 EMBY直连,no-resolve
