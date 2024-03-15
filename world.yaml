@@ -136,6 +136,7 @@ proxies: ~
 proxy-groups: ~
 rules:
   - DOMAIN-SUFFIX,q1cloud.me,🚀 节点选择
+  - DOMAIN-SUFFIX,claude.ai,🚀 节点选择
   - DOMAIN-SUFFIX,ohmygpt.com,🚀 节点选择
   - DOMAIN-SUFFIX,wu.uy,🚀 节点选择
   - DOMAIN-SUFFIX,pmxu.xyz,🚀 节点选择
