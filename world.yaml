@@ -136,6 +136,7 @@ proxies: ~
 proxy-groups: ~
 rules:
   - DOMAIN-SUFFIX,q1cloud.me,🚀 节点选择
+  - DOMAIN-SUFFIX,recmata.net,🚀 节点选择
   - DOMAIN-SUFFIX,coze.com,🚀 节点选择
   - DOMAIN-SUFFIX,getbitzapp.com,🚀 节点选择
   - DOMAIN-SUFFIX,micu.me,🚀 节点选择
