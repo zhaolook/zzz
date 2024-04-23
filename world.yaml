@@ -206,6 +206,7 @@ rules:
   - DOMAIN-SUFFIX,legeth.com,🚀 节点选择
   - DOMAIN-SUFFIX,cf.otv.icu,🎬 EMBY直连
   - DOMAIN-SUFFIX,byg.955557.xyz,🎬 EMBY直连
+  - DOMAIN-SUFFIX,apopcloud.com,🎬 EMBY直连
   - DOMAIN-SUFFIX,txrui.top,🎬 EMBY直连
   - DOMAIN-SUFFIX,niceduck.lol,🎬 EMBY直连
   - DOMAIN-SUFFIX,955557.xyz,🎬 EMBY直连
