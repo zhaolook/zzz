@@ -224,6 +224,7 @@ rules:
   - DOMAIN-SUFFIX,emby.lcloud.wiki,🎬 EMBY
   - DOMAIN-SUFFIX,emby.pilipiliultra.top,🎬 EMBY直连
   - DOMAIN-SUFFIX,cf.niceduck.lol,🎬 EMBY直连
+  - DOMAIN-SUFFIX,coemn.com,🎬 EMBY直连
   - DOMAIN-SUFFIX,misty.cx,🎬 EMBY直连
   - DOMAIN-SUFFIX,peachmv.me,🎬 EMBY直连
   - DOMAIN-SUFFIX,lyrebirdemby.com,🎬 EMBY直连
