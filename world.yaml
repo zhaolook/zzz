@@ -216,6 +216,7 @@ rules:
   - DOMAIN-SUFFIX,955557.xyz,🎬 EMBY直连
   - DOMAIN-SUFFIX,gugumedia.link,🎬 EMBY直连
   - DOMAIN-SUFFIX,infinityfly.top,🎬 EMBY
+  - DOMAIN-SUFFIX,gugu.media,🎬 EMBY直连
   - DOMAIN-SUFFIX,flarex.starcat.eu.org,🎬 EMBY
   - DOMAIN-SUFFIX,tkremby.xyz,🎬 EMBY
   - DOMAIN-SUFFIX,synn.cc,🎬 EMBY
