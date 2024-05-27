@@ -136,6 +136,7 @@ proxies: ~
 proxy-groups: ~
 rules:
   - DOMAIN-SUFFIX,q1cloud.me,🚀 节点选择
+  - DOMAIN-SUFFIX,tt.vg,🚀 节点选择
   - DOMAIN-SUFFIX,suc-store.usuc.cc,🚀 节点选择
   - DOMAIN-SUFFIX,sub-store.usuc.cc,🚀 节点选择
   - DOMAIN-SUFFIX,mv66.gay,🚀 节点选择
