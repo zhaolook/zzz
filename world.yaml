@@ -136,6 +136,7 @@ proxies: ~
 proxy-groups: ~
 rules:
   - DOMAIN-SUFFIX,q1cloud.me,🚀 节点选择
+  - DOMAIN-SUFFIX,uk,🚀 节点选择
   - DOMAIN-SUFFIX,tt.vg,🚀 节点选择
   - DOMAIN-SUFFIX,suc-store.usuc.cc,🚀 节点选择
   - DOMAIN-SUFFIX,sub-store.usuc.cc,🚀 节点选择
@@ -2966,7 +2967,6 @@ rules:
   - DOMAIN-SUFFIX,kr,🚀 节点选择
   - DOMAIN-SUFFIX,sg,🚀 节点选择
   - DOMAIN-SUFFIX,tw,🚀 节点选择
-  - DOMAIN-SUFFIX,uk,🚀 节点选择
   - DOMAIN-SUFFIX,us,🚀 节点选择
   - DOMAIN-KEYWORD,1e100,🚀 节点选择
   - DOMAIN-KEYWORD,abema,🚀 节点选择
