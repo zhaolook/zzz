@@ -271,6 +271,7 @@ rules:
   - DOMAIN-SUFFIX,emby.dicarerhome.com,🎬 EMBY直连
   - DOMAIN-SUFFIX,789.123456.al,🎬 EMBY直连
   - DOMAIN-SUFFIX,flare.catlinks.co.uk,🎬 EMBY直连
+  - DOMAIN-SUFFIX,cdsalw2lw.catlinks.co.uk,🎬 EMBY直连
   - DOMAIN-SUFFIX,ju.dog,🎬 EMBY直连
   - DOMAIN-SUFFIX,embyplus.org,🎬 EMBY
   - DOMAIN-SUFFIX,win.infinityfly.top,🎬 EMBY直连
