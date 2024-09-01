@@ -230,6 +230,7 @@ rules:
   - DOMAIN-SUFFIX,aliz.work,🎬 EMBY直连
   - DOMAIN-SUFFIX,tkremby.xyz,🎬 EMBY
   - DOMAIN-SUFFIX,synn.cc,🎬 EMBY
+  - DOMAIN-SUFFIX,emby.tiancheng.cf,🎬 EMBY
   - DOMAIN-SUFFIX,ntrrr.am.sb,🎬 EMBY
   - DOMAIN-SUFFIX,ntrrr.top,🎬 EMBY
   - DOMAIN-SUFFIX,emby.lendcloud.link,🎬 EMBY
