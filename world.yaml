@@ -210,6 +210,8 @@ rules:
   - DOMAIN-SUFFIX,qinav.com,🚀 节点选择
   - DOMAIN-SUFFIX,legeth.com,🚀 节点选择
   - DOMAIN-SUFFIX,7777777.buzz,🎬 EMBY直连
+  - DOMAIN-SUFFIX,vip3.jellyfin.asia,🎬 EMBY直连
+  - DOMAIN-SUFFIX,cn.apopcloud.live,🎬 EMBY直连
   - DOMAIN-SUFFIX,91ai.de,🎬 EMBY直连
   - DOMAIN-SUFFIX,i109.com,🎬 EMBY直连
   - DOMAIN-SUFFIX,581658.best,🎬 EMBY直连
@@ -229,6 +231,7 @@ rules:
   - DOMAIN-SUFFIX,flarex.starcat.eu.org,🎬 EMBY
   - DOMAIN-SUFFIX,aliz.work,🎬 EMBY直连
   - DOMAIN-SUFFIX,tkremby.xyz,🎬 EMBY
+  - DOMAIN-SUFFIX,us.886318.xyz,🎬 EMBY
   - DOMAIN-SUFFIX,synn.cc,🎬 EMBY
   - DOMAIN-SUFFIX,emby.tiancheng.cf,🎬 EMBY
   - DOMAIN-SUFFIX,ntrrr.am.sb,🎬 EMBY
