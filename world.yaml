@@ -232,6 +232,7 @@ rules:
   - DOMAIN-SUFFIX,flarex.starcat.eu.org,🎬 EMBY
   - DOMAIN-SUFFIX,aliz.work,🎬 EMBY直连
   - DOMAIN-SUFFIX,tkremby.xyz,🎬 EMBY
+  - DOMAIN-SUFFIX,preus.cn2gias.uk,🎬 EMBY
   - DOMAIN-SUFFIX,us.886318.xyz,🎬 EMBY
   - DOMAIN-SUFFIX,synn.cc,🎬 EMBY
   - DOMAIN-SUFFIX,emby.tiancheng.cf,🎬 EMBY
