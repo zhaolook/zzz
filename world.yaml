@@ -137,7 +137,7 @@ proxy-groups: ~
 rules:
   - DOMAIN-SUFFIX,q1cloud.me,🚀 节点选择
   - DOMAIN-SUFFIX,sublink.dev,🚀 节点选择
-  - DOMAIN-SUFFIX,uk,🚀 节点选择
+  - DOMAIN-SUFFIX,preus.cn2gias.uk,🎬 EMBY
   - DOMAIN-SUFFIX,tt.vg,🚀 节点选择
   - DOMAIN-SUFFIX,suc-store.usuc.cc,🚀 节点选择
   - DOMAIN-SUFFIX,sub-store.usuc.cc,🚀 节点选择
@@ -232,7 +232,6 @@ rules:
   - DOMAIN-SUFFIX,flarex.starcat.eu.org,🎬 EMBY
   - DOMAIN-SUFFIX,aliz.work,🎬 EMBY直连
   - DOMAIN-SUFFIX,tkremby.xyz,🎬 EMBY
-  - DOMAIN-SUFFIX,preus.cn2gias.uk,🎬 EMBY
   - DOMAIN-SUFFIX,us.886318.xyz,🎬 EMBY
   - DOMAIN-SUFFIX,synn.cc,🎬 EMBY
   - DOMAIN-SUFFIX,emby.tiancheng.cf,🎬 EMBY
@@ -3932,6 +3931,7 @@ rules:
   - DOMAIN-SUFFIX,zhimg.com,🎯 全球直连
   - DOMAIN-SUFFIX,zhongsou.com,🎯 全球直连
   - DOMAIN-SUFFIX,zhuihd.com,🎯 全球直连
+  - DOMAIN-SUFFIX,uk,🚀 节点选择
   - IP-CIDR,8.128.0.0/10,🎯 全球直连,no-resolve
   - IP-CIDR,8.208.0.0/12,🎯 全球直连,no-resolve
   - IP-CIDR,14.1.112.0/22,🎯 全球直连,no-resolve
