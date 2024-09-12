@@ -513,7 +513,6 @@ rules:
   - DOMAIN,www.hostbuf.com,🚀 节点选择
   - DOMAIN-SUFFIX,scopus.com,🎯 全球直连
   - DOMAIN-KEYWORD,ieee,🎯 全球直连
-  - DOMAIN-SUFFIX,ieee,🎯 全球直连
   - DOMAIN-SUFFIX,edu.cn,🎯 全球直连
   - DOMAIN-SUFFIX,acl4ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
