@@ -140,14 +140,14 @@ function main(config) {
       ...groupBaseOption,
       "name": "Emby直连",
       "type": "select",
-      "proxies": ["Main Node", "HK", "US", "SG", "JP", "TW"],
+      "proxies": ["DIRECT""Main Node", "HK", "US", "SG", "JP", "TW"],
       "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Emby.png"
     },
     {
       ...groupBaseOption,
       "name": "全球直连",
       "type": "select",
-      "proxies": ["Direct", "Main Node", "HK", "US", "SG", "JP", "TW"],
+      "proxies": ["DIRECT", "Main Node", "HK", "US", "SG", "JP", "TW"],
       "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/China.png"
     },
     {
