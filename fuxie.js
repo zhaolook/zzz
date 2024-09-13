@@ -140,7 +140,7 @@ function main(config) {
       ...groupBaseOption,
       "name": "Emby直连",
       "type": "select",
-      "proxies": ["DIRECT""Main Node", "HK", "US", "SG", "JP", "TW"],
+      "proxies": ["DIRECT", "Main Node", "HK", "US", "SG", "JP", "TW"],
       "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Emby.png"
     },
     {
