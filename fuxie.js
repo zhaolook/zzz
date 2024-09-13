@@ -139,6 +139,14 @@ function main(config) {
     },
     {
       ...groupBaseOption,
+      "name": "Emby直连",
+      "type": "select",
+      "include-all": true,
+      "proxies": ["Main Node", "HK", "US", "SG", "JP", "TW"],
+      "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Emby.png"
+    },
+    {
+      ...groupBaseOption,
       "name": "Final",
       "type": "select",
       "proxies": ["Main Node", "HK", "US", "SG", "JP", "TW"],
@@ -227,8 +235,14 @@ function main(config) {
     "Emby": {
       ...ruleProviderCommon,
       "behavior": "classical",
-      "url": "https://raw.githubusercontent.com/zhaolook/zzz/main/EMBY.list",
-      "path": "./EMBY.list"
+      "url": "https://raw.githubusercontent.com/zhaolook/zzz/main/Emby.list",
+      "path": "./Emby.list"
+    },
+    "Emby直连": {
+      ...ruleProviderCommon,
+      "behavior": "classical",
+      "url": "https://raw.githubusercontent.com/zhaolook/zzz/main/EmbyDirect.list",
+      "path": "./EmbyDirect.list"
     },
     "Spotify": {
       ...ruleProviderCommon,
@@ -287,6 +301,7 @@ function main(config) {
     "RULE-SET,Google,Google",
     "RULE-SET,Telegram,Telegram",
     "RULE-SET,Emby,Emby",
+    "RULE-SET,Emby直连,Emby直连",
     "RULE-SET,Spotify,Global Media",
     "RULE-SET,Bahamut,Bahamut",
     "RULE-SET,Netflix,Global Media",
