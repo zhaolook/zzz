@@ -150,7 +150,7 @@ function main(config) {
       "name": "全球直连",
       "type": "select",
       "include-all": true,
-      "proxies": ["DIRECT"],
+      "proxies": ["Main Node", "HK", "US", "SG", "JP", "TW"],
       "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/China.png"
     },
     {
