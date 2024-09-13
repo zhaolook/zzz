@@ -133,7 +133,6 @@ function main(config) {
       ...groupBaseOption,
       "name": "Emby",
       "type": "select",
-      "include-all": true,
       "proxies": ["Main Node", "HK", "US", "SG", "JP", "TW"],
       "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Emby.png"
     },
@@ -141,7 +140,6 @@ function main(config) {
       ...groupBaseOption,
       "name": "Emby直连",
       "type": "select",
-      "include-all": true,
       "proxies": ["Main Node", "HK", "US", "SG", "JP", "TW"],
       "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Emby.png"
     },
@@ -149,7 +147,6 @@ function main(config) {
       ...groupBaseOption,
       "name": "全球直连",
       "type": "select",
-      "include-all": true,
       "proxies": ["Direct", "Main Node", "HK", "US", "SG", "JP", "TW"],
       "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/China.png"
     },
