@@ -227,8 +227,8 @@ function main(config) {
     "Emby": {
       ...ruleProviderCommon,
       "behavior": "classical",
-      "url": "https://github.com/Repcz/Tool/raw/X/Clash/Rules/Emby.list",
-      "path": "./rules/Emby.list"
+      "url": "https://raw.githubusercontent.com/zhaolook/zzz/main/EMBY.list",
+      "path": "./EMBY.list"
     },
     "Spotify": {
       ...ruleProviderCommon,
