@@ -147,6 +147,14 @@ function main(config) {
     },
     {
       ...groupBaseOption,
+      "name": "全球直连",
+      "type": "select",
+      "include-all": true,
+      "proxies": ["DIRECT"],
+      "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/China.png"
+    },
+    {
+      ...groupBaseOption,
       "name": "Final",
       "type": "select",
       "proxies": ["Main Node", "HK", "US", "SG", "JP", "TW"],
@@ -244,6 +252,12 @@ function main(config) {
       "url": "https://raw.githubusercontent.com/zhaolook/zzz/main/EmbyDirect.list",
       "path": "./EmbyDirect.list"
     },
+    "全球直连": {
+      ...ruleProviderCommon,
+      "behavior": "classical",
+      "url": "https://raw.githubusercontent.com/zhaolook/zzz/main/Direct.list",
+      "path": "./Direct.list"
+    },
     "Spotify": {
       ...ruleProviderCommon,
       "behavior": "classical",
@@ -302,6 +316,7 @@ function main(config) {
     "RULE-SET,Telegram,Telegram",
     "RULE-SET,Emby,Emby",
     "RULE-SET,Emby直连,Emby直连",
+    "RULE-SET,全球直连,全球直连",
     "RULE-SET,Spotify,Global Media",
     "RULE-SET,Bahamut,Bahamut",
     "RULE-SET,Netflix,Global Media",
