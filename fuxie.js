@@ -90,7 +90,6 @@ function main(config) {
       ...groupBaseOption,
       "name": "Main Node",
       "type": "select",
-      "proxies": ["HK", "US", "SG", "JP", "TW"],
       "include-all": true,
       "icon": "https://github.com/clash-verge-rev/clash-verge-rev/raw/main/src-tauri/icons/icon.png"
     },
