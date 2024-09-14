@@ -99,6 +99,7 @@ DOMAIN-SUFFIX,emby.carlos.trade
 DOMAIN-SUFFIX,emby.misakaf.xyz
 DOMAIN-SUFFIX,cdn.misakaf.xyz
 DOMAIN-SUFFIX,cf.jmsooo.com
+DOMAIN-SUFFIX,emby.233988.xyz
 IP-CIDR,94.16.122.183/24,no-resolve
 IP-CIDR,168.138.45.100/24,no-resolve
 IP-CIDR,38.58.176.103/24,no-resolve
