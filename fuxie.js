@@ -137,7 +137,7 @@ function main(config) {
     },
     {
       ...groupBaseOption,
-      "name": "Emby直连",
+      "name": "EmbyDirect",
       "type": "select",
       "proxies": ["DIRECT", "Main Node", "HK", "US", "SG", "JP", "TW"],
       "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Emby.png"
@@ -242,7 +242,7 @@ function main(config) {
       "url": "https://raw.githubusercontent.com/zhaolook/zzz/main/Emby.list",
       "path": "./Emby.list"
     },
-    "Emby直连": {
+    "EmbyDirect": {
       ...ruleProviderCommon,
       "behavior": "classical",
       "url": "https://raw.githubusercontent.com/zhaolook/zzz/main/EmbyDirect.list",
@@ -311,7 +311,7 @@ function main(config) {
     "RULE-SET,Google,Google",
     "RULE-SET,Telegram,Telegram",
     "RULE-SET,Emby,Emby",
-    "RULE-SET,Emby直连,Emby直连",
+    "RULE-SET,EmbyDirect,EmbyDirect",
     "RULE-SET,全球直连,全球直连",
     "RULE-SET,Spotify,Global Media",
     "RULE-SET,Bahamut,Bahamut",
