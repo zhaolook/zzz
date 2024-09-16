@@ -323,6 +323,7 @@ function main(config) {
     "GEOIP,lan,DIRECT",
     "GEOIP,CN,DIRECT",
     "DOMAIN-SUFFIX,aca.best,EmbyDirect",
+    "DOMAIN-SUFFIX,misakaf.org,EmbyDirect",
     "MATCH,Final"
   ];
 
