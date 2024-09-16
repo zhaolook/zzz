@@ -322,6 +322,7 @@ function main(config) {
     "RULE-SET,China,DIRECT",
     "GEOIP,lan,DIRECT",
     "GEOIP,CN,DIRECT",
+    "DOMAIN-SUFFIX,emby.aca.best,EmbyDirect",
     "MATCH,Final"
   ];
 
