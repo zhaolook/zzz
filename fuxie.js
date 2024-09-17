@@ -324,6 +324,7 @@ function main(config) {
     "GEOIP,CN,DIRECT",
     "DOMAIN-SUFFIX,aca.best,EmbyDirect",
     "DOMAIN-SUFFIX,misakaf.org,EmbyDirect",
+    "DOMAIN-SUFFIX,sfcj.org,EmbyDirect",
     "DOMAIN-SUFFIX,jsq.mooguu.top,Emby",
     "MATCH,Final"
   ];
