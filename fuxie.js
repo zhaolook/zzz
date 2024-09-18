@@ -326,6 +326,7 @@ function main(config) {
     "DOMAIN-SUFFIX,misakaf.org,EmbyDirect",
     "DOMAIN-SUFFIX,jsq.mooguu.top,Emby",
     "DOMAIN-SUFFIX,sfcj.org,EmbyDirect",
+    "DOMAIN-SUFFIX,embymv.link,EmbyDirect",
     "MATCH,Final"
   ];
 
