@@ -320,6 +320,7 @@ function main(config) {
     "RULE-SET,PrimeVideo,Global Media",
     "RULE-SET,HBO,Global Media",
     "RULE-SET,China,DIRECT",
+    "DOMAIN-SUFFIX,ieee.org,DIRECT",
     "GEOIP,lan,DIRECT",
     "GEOIP,CN,DIRECT",
     "DOMAIN-SUFFIX,aca.best,EmbyDirect",
