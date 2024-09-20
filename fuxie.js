@@ -153,7 +153,7 @@ function main(config) {
       ...groupBaseOption,
       "name": "Final",
       "type": "select",
-      "proxies": ["Main Node", "HK", "US", "SG", "JP", "TW"],
+      "proxies": ["Main Node", "HK", "US", "SG", "JP", "TW","DIRECT"],
       "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Final.png"
     },
     // 地区分组
