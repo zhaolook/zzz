@@ -327,7 +327,6 @@ function main(config) {
     "DOMAIN-SUFFIX,jsq.mooguu.top,Emby",
     "DOMAIN-SUFFIX,sfcj.org,EmbyDirect",
     "DOMAIN-SUFFIX,embymv.link,EmbyDirect",
-    "IP-CIDR,148.135.111.212/24,EmbyDirect",
     "MATCH,Final"
   ];
 
