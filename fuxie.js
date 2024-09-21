@@ -328,6 +328,7 @@ function main(config) {
     "DOMAIN-SUFFIX,sfcj.org,EmbyDirect",
     "DOMAIN-SUFFIX,embymv.link,EmbyDirect",
     "DOMAIN-SUFFIX,emby.yomo.lol,EmbyDirect",
+    "DOMAIN-SUFFIX,alphatvapp.top,EmbyDirect",
     "MATCH,Final"
   ];
 
