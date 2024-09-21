@@ -329,6 +329,7 @@ function main(config) {
     "DOMAIN-SUFFIX,embymv.link,EmbyDirect",
     "DOMAIN-SUFFIX,emby.yomo.lol,EmbyDirect",
     "DOMAIN-SUFFIX,alphatvapp.top,EmbyDirect",
+    "DOMAIN-SUFFIX,apopcloud.live,EmbyDirect",
     "MATCH,Final"
   ];
 
