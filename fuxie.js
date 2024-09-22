@@ -331,6 +331,7 @@ function main(config) {
     "DOMAIN-SUFFIX,alphatvapp.top,EmbyDirect",
     "DOMAIN-SUFFIX,apopcloud.live,EmbyDirect",
     "DOMAIN-SUFFIX,jmsuper.com,EmbyDirect",
+    "DOMAIN-SUFFIX,boaz.cf,EmbyDirect",
     "IP-CIDR,132.226.20.31/24,EmbyDirect",
     "MATCH,Final"
   ];
