@@ -333,6 +333,7 @@ function main(config) {
     "DOMAIN-SUFFIX,jmsuper.com,EmbyDirect",
     "DOMAIN-SUFFIX,285286.xyz,EmbyDirect",
     "DOMAIN-SUFFIX,boaz.cf,EmbyDirect",
+    "DOMAIN-SUFFIX,1024.name,EmbyDirect",
     "IP-CIDR,132.226.20.31/24,EmbyDirect",
     "MATCH,Final"
   ];
