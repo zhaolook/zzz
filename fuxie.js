@@ -334,6 +334,7 @@ function main(config) {
     "DOMAIN-SUFFIX,285286.xyz,EmbyDirect",
     "DOMAIN-SUFFIX,boaz.cf,EmbyDirect",
     "DOMAIN-SUFFIX,1024.name,EmbyDirect",
+    "DOMAIN-SUFFIX,pilipili.club,EmbyDirect",
     "IP-CIDR,132.226.20.31/24,EmbyDirect",
     "IP-CIDR,104.161.22.114/24,EmbyDirect",
     "MATCH,Final"
