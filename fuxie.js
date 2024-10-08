@@ -163,7 +163,7 @@ function main(config) {
       "type": "select",
       "tolerance": 0,
       "include-all": true,
-      "filter": "(?i)🇭🇰|香港|(\b(HK|Hong)\b)",
+      "filter": "(?i)🇭🇰|HK|香港|(\b(HK|Hong)\b)",
       "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Hong_Kong.png"
     },
     {
@@ -172,7 +172,7 @@ function main(config) {
       "type": "select",
       "tolerance": 0,
       "include-all": true,
-      "filter": "(?i)🇺🇸|美国|洛杉矶|圣何塞|(\b(US|United States)\b)",
+      "filter": "(?i)🇺🇸|US|美国|洛杉矶|圣何塞|(\b(US|United States)\b)",
       "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_States.png"
     },
     {
@@ -181,7 +181,7 @@ function main(config) {
       "type": "select",
       "tolerance": 0,
       "include-all": true,
-      "filter": "(?i)🇸🇬|新加坡|狮|(\b(SG|Singapore)\b)",
+      "filter": "(?i)🇸🇬|SG|新加坡|狮|(\b(SG|Singapore)\b)",
       "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Singapore.png"
     },
     {
@@ -190,7 +190,7 @@ function main(config) {
       "type": "select",
       "tolerance": 0,
       "include-all": true,
-      "filter": "(?i)🇯🇵|日本|东京|(\b(JP|Japan)\b)",
+      "filter": "(?i)🇯🇵|JP|日本|东京|(\b(JP|Japan)\b)",
       "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Japan.png"
     },
     {
@@ -199,7 +199,7 @@ function main(config) {
       "type": "select",
       "tolerance": 0,
       "include-all": true,
-      "filter": "(?i)🇨🇳|🇹🇼|台湾|(\b(TW|Tai|Taiwan)\b)",
+      "filter": "(?i)🇨🇳|🇹🇼|TW|台湾|(\b(TW|Tai|Taiwan)\b)",
       "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/China.png"
     }
   ];
