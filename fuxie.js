@@ -338,6 +338,8 @@ function main(config) {
     "DOMAIN-SUFFIX,fmta.boo,EmbyDirect",
     "DOMAIN-SUFFIX,acecandy.cn,EmbyDirect",
     "DOMAIN-SUFFIX,yhemby.top,EmbyDirect",
+    "DOMAIN-SUFFIX,itsmyduty.top,EmbyDirect",
+    "DOMAIN-SUFFIX,emby.my,EmbyDirect",
     "IP-CIDR,132.226.20.31/24,EmbyDirect",
     "IP-CIDR,104.161.22.114/24,EmbyDirect",
     "MATCH,Final"
