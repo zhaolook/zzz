@@ -349,7 +349,7 @@ function main(config) {
     "DOMAIN-SUFFIX,emby.my,EmbyDirect",
     "DOMAIN-SUFFIX,awatv.de,Emby",
     "IP-CIDR,132.226.20.31/24,EmbyDirect",
-    "IP-CIDR,129.154.57.17/24,EmbyDirect",
+    "IP-CIDR,129.154.57.174/24,EmbyDirect",
     "IP-CIDR,104.161.22.114/24,EmbyDirect",
     "MATCH,Final"
   ];
