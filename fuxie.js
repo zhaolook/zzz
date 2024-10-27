@@ -97,63 +97,70 @@ function main(config) {
       ...groupBaseOption,
       "name": "Telegram",
       "type": "select",
-      "proxies": ["Main Node", "HK", "US", "SG", "JP", "TW"],
+      "proxies": ["Main Node", "Special", "HK", "US", "SG", "JP", "TW"],
       "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Telegram.png"
+    },
+    {
+      ...groupBaseOption,
+      "name": "Special",
+      "type": "select",
+      "include-all": true,
+      "icon": "https://github.com/clash-verge-rev/clash-verge-rev/raw/main/src-tauri/icons/icon.png"
     },
     {
       ...groupBaseOption,
       "name": "Global Media",
       "type": "select",
-      "proxies": ["Main Node", "HK", "US", "SG", "JP", "TW"],
+      "proxies": ["Main Node", "Special", "HK", "US", "SG", "JP", "TW"],
       "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Area.png"
     },
      {
       ...groupBaseOption,
       "name": "Bahamut",
       "type": "select",
-      "proxies": ["Main Node", "HK", "US", "SG", "JP", "TW"],
+      "proxies": ["Main Node", "Special", "HK", "US", "SG", "JP", "TW"],
       "icon": "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/bahamute.png"
     },
     {
       ...groupBaseOption,
       "name": "Google",
       "type": "select",
-      "proxies": ["Main Node", "HK", "US", "SG", "JP", "TW"],
+      "proxies": ["Main Node", "Special", "HK", "US", "SG", "JP", "TW"],
       "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Google_Search.png"
     },
     {
       ...groupBaseOption,
       "name": "AI",
       "type": "select",
-      "proxies": ["Main Node", "HK", "US", "SG", "JP", "TW"],
+      "proxies": ["Main Node", "Special", "HK", "US", "SG", "JP", "TW"],
       "icon": "https://raw.githubusercontent.com/Orz-3/mini/master/Color/OpenAI.png"
     },
     {
       ...groupBaseOption,
       "name": "Emby",
       "type": "select",
-      "proxies": ["Main Node", "HK", "US", "SG", "JP", "TW"],
+      "proxies": ["Main Node", "Special", "HK", "US", "SG", "JP", "TW"],
       "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Emby.png"
     },
     {
       ...groupBaseOption,
       "name": "EmbyDirect",
       "type": "select",
-      "proxies": ["DIRECT", "Main Node", "HK", "US", "SG", "JP", "TW"],
+      "proxies": ["DIRECT", "Main Node", "Special", "HK", "US", "SG", "JP", "TW"],
       "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Emby.png"
     },
     {
       ...groupBaseOption,
       "name": "全球直连",
       "type": "select",
-      "proxies": ["DIRECT", "Main Node", "HK", "US", "SG", "JP", "TW"],
+      "proxies": ["DIRECT", "Main Node", "Special", "HK", "US", "SG", "JP", "TW"],
       "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/China.png"
     },
     {
       ...groupBaseOption,
       "name": "Final",
       "type": "select",
-      "proxies": ["Main Node", "HK", "US", "SG", "JP", "TW","DIRECT"],
+      "proxies": ["Main Node", "Special", "HK", "US", "SG", "JP", "TW","DIRECT"],
       "icon": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Final.png"
     },
     // 地区分组
