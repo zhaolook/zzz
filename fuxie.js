@@ -350,6 +350,8 @@ function main(config) {
     "DOMAIN-SUFFIX,tnx.one,EmbyDirect",
     "DOMAIN-SUFFIX,nanflix.net,EmbyDirect",
     "DOMAIN-SUFFIX,awatv.de,Emby",
+    "DOMAIN-SUFFIX,910427.xyz,EmbyDirect",
+    "DOMAIN-SUFFIX,233988.xyz,EmbyDirect",
     "IP-CIDR,132.226.20.31/24,EmbyDirect",
     "IP-CIDR,129.154.57.174/24,EmbyDirect",
     "IP-CIDR,104.161.22.114/24,EmbyDirect",
