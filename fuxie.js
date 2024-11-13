@@ -352,6 +352,7 @@ function main(config) {
     "DOMAIN-SUFFIX,awatv.de,Emby",
     "DOMAIN-SUFFIX,910427.xyz,EmbyDirect",
     "DOMAIN-SUFFIX,233988.xyz,EmbyDirect",
+    "DOMAIN-SUFFIX,nanflix.net,EmbyDirect",
     "DOMAIN-SUFFIX,seamlessaccess.org,全球直连",
     "DOMAIN-SUFFIX,microsoft.com,全球直连",
     "IP-CIDR,132.226.20.31/24,EmbyDirect",
