@@ -355,6 +355,7 @@ function main(config) {
     "DOMAIN-SUFFIX,nanflix.net,EmbyDirect",
     "DOMAIN-SUFFIX,worldline.space,EmbyDirect",
     "DOMAIN-SUFFIX,emby.prpr.cn.com,EmbyDirect",
+    "DOMAIN-SUFFIX,auroramedia.vip,EmbyDirect",
     "DOMAIN-SUFFIX,makima.online,Emby",
     "DOMAIN-SUFFIX,seamlessaccess.org,全球直连",
     "DOMAIN-SUFFIX,microsoft.com,全球直连",
