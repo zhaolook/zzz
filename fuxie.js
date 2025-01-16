@@ -357,6 +357,7 @@ function main(config) {
     "DOMAIN-SUFFIX,worldline.space,EmbyDirect",
     "DOMAIN-SUFFIX,emby.prpr.cn.com,EmbyDirect",
     "DOMAIN-SUFFIX,auroramedia.vip,EmbyDirect",
+    "DOMAIN-SUFFIX,nomaba.top,EmbyDirect",
     "DOMAIN-SUFFIX,7777777.buzz,EmbyDirect",
     "DOMAIN-SUFFIX,lemby.me,EmbyDirect",
     "DOMAIN-SUFFIX,doven.tv,EmbyDirect",
