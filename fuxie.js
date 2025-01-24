@@ -359,6 +359,7 @@ function main(config) {
     "DOMAIN-SUFFIX,emby.prpr.cn.com,EmbyDirect",
     "DOMAIN-SUFFIX,auroramedia.vip,EmbyDirect",
     "DOMAIN-SUFFIX,vfing.de,EmbyDirect",
+    "DOMAIN-SUFFIX,sxiaolong-my.sharepoint.com,EmbyDirect",
     "DOMAIN-SUFFIX,nomaba.top,EmbyDirect",
     "DOMAIN-SUFFIX,7777777.buzz,EmbyDirect",
     "DOMAIN-SUFFIX,lemby.me,EmbyDirect",
