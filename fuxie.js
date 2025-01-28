@@ -365,6 +365,7 @@ function main(config) {
     "DOMAIN-SUFFIX,lemby.me,EmbyDirect",
     "DOMAIN-SUFFIX,doven.tv,EmbyDirect",
     "DOMAIN-SUFFIX,711.lol,EmbyDirect",
+    "DOMAIN-SUFFIX,favoritewife.com,EmbyDirect",
     "DOMAIN-SUFFIX,mobaiemby.site,EmbyDirect",
     "DOMAIN-SUFFIX,makima.online,Emby",
     "DOMAIN-SUFFIX,seamlessaccess.org,全球直连",
