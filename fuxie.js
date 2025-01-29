@@ -373,6 +373,7 @@ function main(config) {
     "IP-CIDR,132.226.20.31/24,EmbyDirect",
     "IP-CIDR,15.235.220.182/24,EmbyDirect",
     "IP-CIDR,193.122.114.13/24,EmbyDirect",
+    "IP-CIDR,152.53.133.214/24,EmbyDirect",
     "IP-CIDR,129.154.57.174/24,EmbyDirect",
     "IP-CIDR,104.161.22.114/24,EmbyDirect",
     "IP-CIDR,192.210.216.166/24,EmbyDirect",
