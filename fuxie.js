@@ -374,6 +374,7 @@ function main(config) {
     "DOMAIN-SUFFIX,seamlessaccess.org,全球直连",
     "DOMAIN-SUFFIX,microsoft.com,全球直连",
     "IP-CIDR,132.226.20.31/24,EmbyDirect",
+    "IP-CIDR,135.180.189.141/24,EmbyDirect",
     "IP-CIDR,129.154.193.8/24,EmbyDirect",
     "IP-CIDR,15.235.220.182/24,EmbyDirect",
     "IP-CIDR,193.122.114.13/24,EmbyDirect",
