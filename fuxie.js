@@ -374,6 +374,7 @@ function main(config) {
     "DOMAIN-SUFFIX,69yun69.com,EmbyDirect",
     "DOMAIN-SUFFIX,beebi.org,EmbyDirect",
     "DOMAIN-SUFFIX,makima.online,Emby",
+    "DOMAIN-SUFFIX,060618.me,Emby",
     "DOMAIN-SUFFIX,seamlessaccess.org,全球直连",
     "DOMAIN-SUFFIX,microsoft.com,全球直连",
     "IP-CIDR,132.226.20.31/24,EmbyDirect",
