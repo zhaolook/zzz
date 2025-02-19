@@ -373,6 +373,7 @@ function main(config) {
     "DOMAIN-SUFFIX,jsq.mooguu.xyz,EmbyDirect",
     "DOMAIN-SUFFIX,69yun69.com,EmbyDirect",
     "DOMAIN-SUFFIX,beebi.org,EmbyDirect",
+    "DOMAIN-SUFFIX,lilyemby.my,EmbyDirect",
     "DOMAIN-SUFFIX,makima.online,Emby",
     "DOMAIN-SUFFIX,060618.me,Emby",
     "DOMAIN-SUFFIX,seamlessaccess.org,全球直连",
