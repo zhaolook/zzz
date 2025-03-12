@@ -379,6 +379,7 @@ function main(config) {
     "DOMAIN-SUFFIX,outong-valve.com,EmbyDirect",
     "DOMAIN-SUFFIX,114514.quest,EmbyDirect",
     "DOMAIN-SUFFIX,saturday.video,EmbyDirect",
+    "DOMAIN-SUFFIX,nezhasu.com,EmbyDirect",
     "DOMAIN-SUFFIX,makima.online,Emby",
     "DOMAIN-SUFFIX,060618.me,Emby",
     "DOMAIN-SUFFIX,hannn.me,Emby",
