@@ -383,7 +383,7 @@ function main(config) {
     "DOMAIN-SUFFIX,060618.me,Emby",
     "DOMAIN-SUFFIX,hannn.me,Emby",
     "DOMAIN-SUFFIX,seamlessaccess.org,全球直连",
-    "DOMAIN-SUFFIX,makima.online,全球直连",
+    "DOMAIN-SUFFIX,clip.makima.online,全球直连",
     "DOMAIN-SUFFIX,microsoft.com,全球直连",
     "IP-CIDR,132.226.20.31/24,EmbyDirect",
     "IP-CIDR,135.180.189.141/24,EmbyDirect",
