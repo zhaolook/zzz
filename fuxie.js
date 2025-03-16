@@ -380,6 +380,7 @@ function main(config) {
     "DOMAIN-SUFFIX,114514.quest,EmbyDirect",
     "DOMAIN-SUFFIX,saturday.video,EmbyDirect",
     "DOMAIN-SUFFIX,nezhasu.com,EmbyDirect",
+    "DOMAIN-SUFFIX,oceancloud.asia,EmbyDirect",
     "DOMAIN-SUFFIX,060618.me,Emby",
     "DOMAIN-SUFFIX,hannn.me,Emby",
     "DOMAIN-SUFFIX,seamlessaccess.org,全球直连",
