@@ -382,6 +382,7 @@ function main(config) {
     "DOMAIN-SUFFIX,nezhasu.com,EmbyDirect",
     "DOMAIN-SUFFIX,oceancloud.asia,EmbyDirect",
     "DOMAIN-SUFFIX,asubaka.top,EmbyDirect",
+    "DOMAIN-SUFFIX,313445.xyz,EmbyDirect",
     "DOMAIN-SUFFIX,060618.me,Emby",
     "DOMAIN-SUFFIX,hannn.me,Emby",
     "DOMAIN-SUFFIX,seamlessaccess.org,全球直连",
