@@ -383,6 +383,7 @@ function main(config) {
     "DOMAIN-SUFFIX,oceancloud.asia,EmbyDirect",
     "DOMAIN-SUFFIX,asubaka.top,EmbyDirect",
     "DOMAIN-SUFFIX,313445.xyz,EmbyDirect",
+    "DOMAIN-SUFFIX,nb.28.al,EmbyDirect",
     "DOMAIN-SUFFIX,060618.me,Emby",
     "DOMAIN-SUFFIX,hannn.me,Emby",
     "DOMAIN-SUFFIX,seamlessaccess.org,全球直连",
