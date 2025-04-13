@@ -384,6 +384,8 @@ function main(config) {
     "DOMAIN-SUFFIX,asubaka.top,EmbyDirect",
     "DOMAIN-SUFFIX,313445.xyz,EmbyDirect",
     "DOMAIN-SUFFIX,nb.28.al,EmbyDirect",
+    "DOMAIN-SUFFIX,emby1.123456789.lol,EmbyDirect",
+    "DOMAIN-SUFFIX,ljby.998903.xyz,EmbyDirect",
     "DOMAIN-SUFFIX,060618.me,Emby",
     "DOMAIN-SUFFIX,hannn.me,Emby",
     "DOMAIN-SUFFIX,seamlessaccess.org,全球直连",
