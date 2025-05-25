@@ -386,6 +386,7 @@ function main(config) {
     "DOMAIN-SUFFIX,nb.28.al,EmbyDirect",
     "DOMAIN-SUFFIX,emby1.123456789.lol,EmbyDirect",
     "DOMAIN-SUFFIX,ljby.998903.xyz,EmbyDirect",
+    "DOMAIN-SUFFIX,chilledmelon.com,EmbyDirect",
     "DOMAIN-SUFFIX,dpdns.org,EmbyDirect",
     "DOMAIN-SUFFIX,frre.me,EmbyDirect",
     "DOMAIN-SUFFIX,060618.me,Emby",
