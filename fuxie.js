@@ -389,6 +389,7 @@ function main(config) {
     "DOMAIN-SUFFIX,chilledmelon.com,EmbyDirect",
     "DOMAIN-SUFFIX,dpdns.org,EmbyDirect",
     "DOMAIN-SUFFIX,frre.me,EmbyDirect",
+    "DOMAIN-SUFFIX,zoxfree.3767483.xyz",
     "DOMAIN-SUFFIX,060618.me,Emby",
     "DOMAIN-SUFFIX,hannn.me,Emby",
     "DOMAIN-SUFFIX,seamlessaccess.org,全球直连",
