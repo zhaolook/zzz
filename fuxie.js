@@ -391,6 +391,7 @@ function main(config) {
     "DOMAIN-SUFFIX,frre.me,EmbyDirect",
     "DOMAIN-SUFFIX,staryuki.me,EmbyDirect",
     "DOMAIN-SUFFIX,zoxfree.3767483.xyz,EmbyDirect",
+    "DOMAIN-SUFFIX,ucloudhost.top,EmbyDirect",
     "DOMAIN-SUFFIX,060618.me,Emby",
     "DOMAIN-SUFFIX,hannn.me,Emby",
     "DOMAIN-SUFFIX,seamlessaccess.org,全球直连",
